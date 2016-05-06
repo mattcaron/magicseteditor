@@ -36,7 +36,7 @@ fi
 AC_CHECK_LIB([hunspell],[Hunspell_create])
 
 # Check for Boost
-AX_BOOST_BASE([1.37.0])
+# AX_BOOST_BASE([1.37.0])
 AX_BOOST_REGEX
 
 # Check for wxWidgets
