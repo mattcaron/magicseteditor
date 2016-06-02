@@ -1,0 +1,11 @@
+*.o
+.deps
+.dirstamp
+Makefile
+autom4te.cache
+compile
+config.log
+config.status
+magicseteditor
+src/config.h
+src/stamp-h1
